@@ -2,3 +2,8 @@ pan
 queso
 medallón
 pan
+tomate
+lechuga
+pechuga
+pepinillo
+mostaza
